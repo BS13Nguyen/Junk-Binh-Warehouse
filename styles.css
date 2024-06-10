@@ -9,7 +9,7 @@ body {
     border: 4px solid #008080; /* Teal */
     padding: 10px;
     margin: 10px 0; 
-    font-size: 2.5em; /* Adjust size as needed */
+    font-size: 1.5em; /* Adjust size as needed */
 }
 
 .title2 {
@@ -27,7 +27,7 @@ body {
     border: 2px solid #FF69B4; /* Hot Pink */
     padding: 10px;
     margin: 10px 0; 
-    font-size: 1.5em; /* Adjust size as needed */
+    font-size: 2.5em; /* Adjust size as needed */
 }
 
 p {
