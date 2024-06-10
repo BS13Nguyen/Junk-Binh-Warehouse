@@ -3,6 +3,10 @@ body {
     font-family: Arial, sans-serif;
 }
 
+#warehouseImage {
+    float: right; /* or left, depending on where you want the image to float */
+    margin: 0 0 10px 10px; /* Adjust as needed */
+}
 .nav-container {
     border: 3px solid #FF69B4; /* Hot Pink */
     border-radius: 12px;
