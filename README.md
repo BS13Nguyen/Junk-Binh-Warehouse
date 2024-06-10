@@ -26,11 +26,11 @@ I am eager to learn more and improve my skills in these areas.
 
 ### Project 1
 
-Description of Project 1.
+Project 1.
 
 ### Project 2
 
-Description of Project 2.
+Project 2.
 
 ## Contact Me
 
