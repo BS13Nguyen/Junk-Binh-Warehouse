@@ -65,6 +65,12 @@ nav a:nth-child(even) {
     border-color: #800080; /* Purple */
 }
 
-nav a:hover {
-    background-color: #ddd;
-    color: black;
+nav a:nth-child(odd):hover {
+    background-color: #008080; /* Teal */
+    color: #FF69B4; /* Hot Pink */
+}
+
+nav a:nth-child(even):hover {
+    background-color: #800080; /* Purple */
+    color: #008080; /* Teal */
+}
