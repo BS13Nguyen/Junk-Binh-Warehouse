@@ -4,7 +4,7 @@ body {
 }
 
 #contactMeImage {
-    border: 5px solid #008B8B; /* Adjust border size and color as needed */
+   
     width: 50%; /* Adjust width as needed */
     height: auto; /* This will maintain the aspect ratio of the image */
     display: block; /* This will allow us to use margin: auto; */
@@ -12,7 +12,7 @@ body {
 }
 
 #warehouseImage {
-    border: 5px solid #008B8B; /* Adjust border size and color as needed */
+   
     width: 50%; /* Adjust width as needed */
     height: auto; /* This will maintain the aspect ratio of the image */
     display: block; /* This will allow us to use margin: auto; */
