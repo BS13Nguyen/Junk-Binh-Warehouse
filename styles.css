@@ -4,8 +4,8 @@ body {
 }
 
 #warehouseImage {
-    float: right; /* or left, depending on where you want the image to float */
-    margin: 0 0 10px 10px; /* Adjust as needed */
+    width: 100%; /* This will make the image take the full width of the .title1 div */
+    height: auto; /* This will maintain the aspect ratio of the image */
 }
 .nav-container {
     border: 3px solid #FF69B4; /* Hot Pink */
