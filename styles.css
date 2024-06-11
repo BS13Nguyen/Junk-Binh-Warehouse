@@ -2,6 +2,12 @@ body {
     background-color: #f0f0f0; 
     font-family: Arial, sans-serif;
 }
+#projectsImages {
+    width: 50%; /* Adjust width as needed */
+    height: auto; /* This will maintain the aspect ratio of the image */
+    display: block; /* This will allow us to use margin: auto; */
+    margin: auto; /* This will center the image */
+}
 
 #contactMeImage {
    
@@ -60,18 +66,19 @@ body {
     padding: 10px;
     margin: 10px 0; 
     font-size: 2.5em; /* Adjust size as needed */
+    text-align: center; /* Add this line */
 }
 
 p {
-    background-color: #d3d3d3;
-    border: 1px solid #a9a9a9;
+    background-color: #afaeae;
+    border: 1px solid #807f7f;
     padding: 10px;
     border-radius: 5px;
     margin: 10px 0;
 }
 
 nav {
-    background-color: #333;
+    background-color: #575656;
     overflow: hidden;
     border: 3px solid #008B8B; /* Hot Teal Green */
     border-radius: 12px;
